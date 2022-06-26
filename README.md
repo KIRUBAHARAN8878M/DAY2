@@ -1,2 +1,2 @@
-# DAY2
-GUVI TASK
+# DAY-2
+
